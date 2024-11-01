@@ -17,6 +17,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-black?style=for-the-badge&logo=popos&logoColor=48B9C7)
+![Neovim](https://img.shields.io/badge/Neovim-blue?style=for-the-badge&logo=neovim)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sayurinsimp&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
