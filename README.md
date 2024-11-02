@@ -20,7 +20,8 @@
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-black?style=for-the-badge&logo=popos&logoColor=48B9C7)
 ![Neovim](https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=neovim)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git)
-![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Git)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=tailwindcss)
 
 
