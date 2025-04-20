@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Refine, Medusa, React, Tailwind, Supabase, ExpressJS
+🌱 I’m currently learning Medusa, React, Tailwind, Supabase, ExpressJS
 
 
 ## 🌐 Socials:
