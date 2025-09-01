@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Medusa, React, Tailwind, Supabase, ExpressJS
+🌱 Hello! Now committing to become a frontend developer of my own UI/UX projects! Would love to learn more about UX/UI research!
 
 
 ## 🌐 Socials:
